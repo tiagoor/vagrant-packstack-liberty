@@ -1,3 +1,4 @@
+# tor@openstack.eti.br
 # OpenStack Vagrant Project
 This project is to give a development reference deployment for OpenStack
 PackStack on CentOS7 was the simplest full install
